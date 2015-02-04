@@ -1,6 +1,6 @@
 <?php
-			$servername = "localhost";
-			$username = "php";		
-			$password = "php";
-			$dbname = "amit";
+			$servername = "";
+			$username = "";		
+			$password = "";
+			$dbname = "";
 ?>
