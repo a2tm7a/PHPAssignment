@@ -1,0 +1,51 @@
+.sighin{
+	background-color: blue;
+	padding: 40px;
+	margin:-8px;
+}
+.welcome{
+	width:50%;
+	position: relative;
+	float: left;
+	margin-top: -38px;
+}
+.fillsignin{
+	width: 50%;
+	position: relative;
+	float:right;
+}
+.rest{
+	background-color: rgb(100,155,155);
+	height:100%;
+	
+	margin: -8px;
+	margin-top: -47px;
+}
+.signup{
+	background-color: rgb(0,155,100);
+	width:50%;
+	height: 100%;
+	position: relative;
+	float: right;
+	margin-top: -28px;
+	margin-left: 0px;
+	padding-top: 50px;
+	font-size: 15;
+
+}
+.left_of_signup{
+	background-color: rgb(0,155,100);
+	width:50%;
+	height: 100%;
+	position: relative;
+	float: left;
+	margin-top: -28px;
+	margin-left: 0px;
+	padding-top: 50px;
+	font-size: 15;
+}
+.form{
+	text-align: center;
+	font-size: 30;
+
+}
